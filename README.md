@@ -1,6 +1,6 @@
-# Stock_Analysis
+# Capstone_Project
+Final Project for Data Analytics Class: Using Common Financial Indicators to Predict Stock Performance
 
-Using Common Financial Indicators to Predict Stock Performance
 [Link to Google Slides](https://docs.google.com/presentation/d/1rg12WplVf4fy3VU82EIZb64H5yveYUukMScgsefe0KI)
 
 ## Overview
